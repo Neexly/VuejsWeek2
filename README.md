@@ -1,4 +1,3 @@
 # Rendu semaine Vue.js
 
-César Steenbrink
-===
+### César Steenbrink
