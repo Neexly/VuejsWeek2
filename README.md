@@ -1,3 +1,3 @@
-# Rendu semaine Vue.js
+## Rendu semaine Vue.js
 
-### César Steenbrink
+###### César Steenbrink
